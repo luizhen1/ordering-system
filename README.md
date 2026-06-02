@@ -5,7 +5,7 @@ Sistema de pedidos backend construido com NestJS, GraphQL, PostgreSQL, Redis, Ap
 O projeto foi estruturado com foco em boas praticas de arquitetura modular, separacao de responsabilidades e um fluxo realista de processamento assincrono de pedidos.
 
 ## System Design
-<img width="1021" height="931" alt="image" src="https://github.com/user-attachments/assets/c46682eb-ada0-4c99-90b4-60c0a8c34d70" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/cf71e914-82fe-45f3-ae34-204ed33ff1d7" />
 
 ## Objetivo
 
